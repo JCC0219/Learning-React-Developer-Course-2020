@@ -1,3 +1,20 @@
+
+# Example Output:
+
+### 1:
+![image](https://github.com/JCC0219/learning-react-expensify-app/assets/106978412/181633a8-2264-4514-be24-4317d32c4ab4)
+
+### 2
+![image](https://github.com/JCC0219/learning-react-expensify-app/assets/106978412/26716091-33a0-4166-b0fb-cf1a8604ae0d)
+
+### 3
+![image](https://github.com/JCC0219/learning-react-expensify-app/assets/106978412/90e652fc-99a8-4d22-816b-7350c5cfeff5)
+---
+
+
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
