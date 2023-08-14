@@ -8,7 +8,7 @@
 ![image](https://github.com/JCC0219/learning-react-expensify-app/assets/106978412/26716091-33a0-4166-b0fb-cf1a8604ae0d)
 
 ### 3
-![image](https://github.com/JCC0219/learning-react-expensify-app/assets/106978412/90e652fc-99a8-4d22-816b-7350c5cfeff5)
+![cursor](https://github.com/JCC0219/learning-react-expensify-app/assets/106978412/20bf23ff-8dfe-47a3-91ff-f3e16c3e659c)
 ---
 
 
